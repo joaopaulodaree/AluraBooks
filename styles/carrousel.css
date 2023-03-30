@@ -55,7 +55,7 @@
 
     .carrousel__container{
         display: flex;
-        margin: 3em 20vw 3em 20vw;
+        margin: 0 5em;
         align-items: center;
     }
 
