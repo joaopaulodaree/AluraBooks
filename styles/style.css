@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Poppins:wght@300;400;500;700&display=swap');
+@import url("header.css");
+@import url("banner.css");
+@import url("carrousel.css");
+@import url("cards.css");
+@import url("topics.css");
+@import url("footer.css");
+
+:root {
+    --main-font: "Poppins";
+    --main-white: #FFFFFF;
+    --main-bg-color: #EBECEE;
+    --secondary-color: #002F52;
+    --tertiary-color: #EB9B00;
+    --secondary-bg-color: #C4C4C4;
+    --footer-bg-color: #F9F9F9;
+    --gradient-color: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+}
+
+body {
+    background-color: var(--main-bg-color);
+    font-family: var(--main-font);
+    font-size: 16px;
+    font-weight: 400;
+}
